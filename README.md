@@ -9,7 +9,6 @@
 ## Code Worrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
 
-<br/>  
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
 ### Frontend  
