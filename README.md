@@ -1,8 +1,5 @@
  💬 Ask me about anything in C++...I'll help
  
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GithinjiHans&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
 <!--START_SECTION:lang-->
