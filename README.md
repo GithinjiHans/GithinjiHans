@@ -1,5 +1,5 @@
-### Hi there 👋
-
+ 💬 Ask me about anything in C++...I'll help
+ 📫 How to reach me: hanson4e@gmail.com
 <!--
 **GithinjiHans/GithinjiHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
