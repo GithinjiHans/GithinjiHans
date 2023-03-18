@@ -7,7 +7,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GithinjiHans&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+###COde Worrior
+<div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
