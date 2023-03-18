@@ -5,7 +5,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GithinjiHans&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:lang-->
+<!--END_SECTION:lang-->
 
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
