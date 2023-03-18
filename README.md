@@ -1,6 +1,6 @@
  💬 Ask me about anything in C++...I'll help
+ ##
  📫 How to reach me: hanson4e@gmail.com
- https://camo.githubusercontent.com/4280c0c449b0202650fdfabb114d939be0c501073838d2fc2a2d2367c87553a8/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f736f6b6f726f746f746f2f6261646765732f6d6963726f
 <!--
 **GithinjiHans/GithinjiHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
