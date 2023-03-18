@@ -10,7 +10,6 @@
 
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&hide_border=true&layout=compact&theme=transparent" align="center" style="width: 50%" /></div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
