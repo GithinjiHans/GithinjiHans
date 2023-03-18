@@ -60,11 +60,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-BLOG-POST-LIST:START
- 
-BLOG-POST-LIST:END
  ###
  📫 How to reach me: hanson4e@gmail.com
 <!--
