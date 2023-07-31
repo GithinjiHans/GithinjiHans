@@ -1,7 +1,7 @@
  💬 Ask me about anything in C++...I'll help
  
 ## Github Stats  
-<img src="https://github-readmestats.vercel.app/api username=GithinjiHans&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />
+![](https://raw.githubusercontent.com/GithinjiHans/readme-stats/master/generated/overview.svg)
 <!--START_SECTION:lang-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
 <!--END_SECTION:lang-->
