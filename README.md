@@ -2,7 +2,7 @@
  
 ## Github Stats  
 ![](https://raw.githubusercontent.com/GithinjiHans/readme-stats/master/generated/overview.svg)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokorototo&layout=compact" height="205"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
 
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
