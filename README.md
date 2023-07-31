@@ -1,11 +1,10 @@
  💬 Ask me about anything in C++...I'll help
  
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GithinjiHans&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />
+<img src="https://github-readme-stats.vercel.app/apiusername=GithinjiHans&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />
 <!--START_SECTION:lang-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
 <!--END_SECTION:lang-->
-</div>
 
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
