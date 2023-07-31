@@ -1,10 +1,8 @@
  💬 Ask me about anything in C++...I'll help
  
 ## Github Stats  
-![](https://raw.githubusercontent.com/GithinjiHans/readme-stats/master/generated/overview.svg)
-<!--START_SECTION:lang-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
-<!--END_SECTION:lang-->
+![](https://raw.githubusercontent.com/sokorototo/readme-stats/master/generated/overview.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokorototo&layout=compact" height="205"/>
 
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
