@@ -1,5 +1,4 @@
- 💬 Ask me about anything in C++...I'll help
- 
+ 💬 Hi, I am...$root
 ## Github Stats  
 ![](https://raw.githubusercontent.com/GithinjiHans/readme-stats/master/generated/overview.svg)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
