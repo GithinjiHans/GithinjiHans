@@ -1,7 +1,8 @@
 ## Github Stats  
 ![](https://raw.githubusercontent.com/GithinjiHans/readme-stats/master/generated/overview.svg)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiHans&layout=compact" height="205"/>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hanson-mwangi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/hanson-mwangi?trk=profile-badge">Hanson Mwangi</a></div>
+              
 ## CodeWarrior
 <div align="center"><img src="https://www.codewars.com/users/GithinjiHans/badges/large" align="center" /></div> 
 
